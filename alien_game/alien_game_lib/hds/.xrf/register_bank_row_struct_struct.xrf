@@ -1,0 +1,359 @@
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 137,0 14 0 
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 868,0 15 0 
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 493,0 16 0 
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 142,0 17 0 
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 364,0 18 0 
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 127,0 19 0 
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 394,0 20 0 
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN register_bank_row_struct
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+NO_GRAPHIC 27
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 153,0 36 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+NO_GRAPHIC 39
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 0,0 42 2 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4296,0 47 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4302,0 48 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4308,0 49 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4314,0 50 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4326,0 51 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4332,0 52 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4338,0 53 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4320,0 54 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5526,0 55 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5478,0 56 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5484,0 57 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5550,0 58 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5556,0 59 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5562,0 60 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5568,0 61 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5580,0 62 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5490,0 63 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5496,0 64 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5502,0 65 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5508,0 66 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5514,0 67 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5520,0 68 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5538,0 69 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5544,0 70 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+NO_GRAPHIC 71
+DESIGN register_bank_row_struct
+VIEW struct.bd
+NO_GRAPHIC 75
+LIBRARY alien_game_lib
+DESIGN register_bank_mem_cell
+VIEW struct
+GRAPHIC 468,0 77 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 126,0 79 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 116,0 80 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 260,0 81 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 131,0 82 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 161,0 83 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 121,0 84 0 
+LIBRARY alien_game_lib
+DESIGN register_bank_row_struct
+VIEW struct.bd
+NO_GRAPHIC 87
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 468,0 90 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+NO_GRAPHIC 93
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5046,0 95 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5106,0 98 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5143,0 101 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5180,0 104 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5217,0 107 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5254,0 110 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5291,0 113 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5328,0 116 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4210,0 119 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5395,0 138 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+NO_GRAPHIC 154
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 468,0 156 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4756,0 158 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5716,0 159 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4980,0 160 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4888,0 161 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5582,0 162 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4322,0 163 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 1262,0 165 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4778,0 167 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5656,0 168 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4974,0 169 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4836,0 170 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5570,0 171 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4328,0 172 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 1433,0 174 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4784,0 176 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5662,0 177 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4968,0 178 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4842,0 179 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5564,0 180 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4334,0 181 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 1604,0 183 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4790,0 185 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5668,0 186 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4962,0 187 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4848,0 188 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5558,0 189 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4340,0 190 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 1708,0 192 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4796,0 194 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5674,0 195 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4956,0 196 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4854,0 197 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5552,0 198 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4316,0 199 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 1738,0 201 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4810,0 203 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5722,0 204 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4950,0 205 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4860,0 206 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5546,0 207 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4310,0 208 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 1768,0 210 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4816,0 212 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5688,0 213 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4944,0 214 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4866,0 215 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5540,0 216 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4304,0 217 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 1798,0 219 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4822,0 221 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5694,0 222 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4996,0 223 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4872,0 224 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 5528,0 225 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+GRAPHIC 4298,0 226 0 
+DESIGN register_bank_row_struct
+VIEW struct.bd
+NO_GRAPHIC 229

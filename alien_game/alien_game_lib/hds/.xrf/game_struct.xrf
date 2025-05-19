@@ -1,0 +1,596 @@
+DESIGN game
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 126,0 14 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 136,0 15 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 141,0 16 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 131,0 17 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 156,0 18 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 166,0 19 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 161,0 20 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 146,0 21 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 151,0 22 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN game
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN game
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN game
+VIEW struct.bd
+GRAPHIC 185,0 38 0 
+DESIGN game
+VIEW struct.bd
+NO_GRAPHIC 41
+DESIGN game
+VIEW struct.bd
+GRAPHIC 0,0 44 2 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 600,0 49 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 840,0 50 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 606,0 51 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 594,0 52 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 624,0 53 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 642,0 54 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 999,0 55 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 993,0 56 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 488,0 57 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 506,0 58 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 755,0 59 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1201,0 60 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 648,0 61 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 969,0 62 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 824,0 63 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 636,0 64 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 987,0 65 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 618,0 66 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 630,0 67 0 
+DESIGN game
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN game
+VIEW struct.bd
+NO_GRAPHIC 69
+LIBRARY alien_game_lib
+DESIGN alien_hit_logic
+VIEW struct
+GRAPHIC 789,0 71 0 
+DESIGN alien_hit_logic
+VIEW symbol.sb
+GRAPHIC 118,0 73 0 
+DESIGN alien_hit_logic
+VIEW symbol.sb
+GRAPHIC 123,0 74 0 
+DESIGN alien_hit_logic
+VIEW symbol.sb
+GRAPHIC 128,0 75 0 
+DESIGN alien_hit_logic
+VIEW symbol.sb
+GRAPHIC 133,0 76 0 
+DESIGN alien_hit_logic
+VIEW symbol.sb
+GRAPHIC 768,0 77 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1225,0 80 0 
+DESIGN alien_hp2
+VIEW symbol.sb
+GRAPHIC 126,0 82 0 
+DESIGN alien_hp2
+VIEW symbol.sb
+GRAPHIC 116,0 83 0 
+DESIGN alien_hp2
+VIEW symbol.sb
+GRAPHIC 131,0 84 0 
+DESIGN alien_hp2
+VIEW symbol.sb
+GRAPHIC 121,0 85 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 411,0 88 0 
+DESIGN bullet
+VIEW symbol.sb
+GRAPHIC 235,0 90 0 
+DESIGN bullet
+VIEW symbol.sb
+GRAPHIC 122,0 91 0 
+DESIGN bullet
+VIEW symbol.sb
+GRAPHIC 137,0 92 0 
+DESIGN bullet
+VIEW symbol.sb
+GRAPHIC 127,0 93 0 
+DESIGN bullet
+VIEW symbol.sb
+GRAPHIC 205,0 94 0 
+DESIGN bullet
+VIEW symbol.sb
+GRAPHIC 147,0 95 0 
+DESIGN bullet
+VIEW symbol.sb
+GRAPHIC 152,0 96 0 
+DESIGN bullet
+VIEW symbol.sb
+GRAPHIC 142,0 97 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 327,0 100 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 134,0 102 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 124,0 103 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 877,0 104 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 410,0 105 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 154,0 106 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 149,0 107 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 144,0 108 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 959,0 111 0 
+DESIGN color_effect
+VIEW symbol.sb
+GRAPHIC 163,0 113 0 
+DESIGN color_effect
+VIEW symbol.sb
+GRAPHIC 168,0 114 0 
+DESIGN color_effect
+VIEW symbol.sb
+GRAPHIC 116,0 115 0 
+DESIGN color_effect
+VIEW symbol.sb
+GRAPHIC 131,0 116 0 
+DESIGN color_effect
+VIEW symbol.sb
+GRAPHIC 121,0 117 0 
+DESIGN color_effect
+VIEW symbol.sb
+GRAPHIC 126,0 118 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 584,0 121 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 169,0 123 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 139,0 124 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 144,0 125 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 174,0 126 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 159,0 127 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 164,0 128 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 300,0 129 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 305,0 130 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 310,0 131 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 179,0 132 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 149,0 133 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 154,0 134 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 134,0 135 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 194,0 136 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 184,0 137 0 
+DESIGN game_logic_mux
+VIEW symbol.sb
+GRAPHIC 189,0 138 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 369,0 141 0 
+DESIGN gun
+VIEW symbol.sb
+GRAPHIC 124,0 143 0 
+DESIGN gun
+VIEW symbol.sb
+GRAPHIC 139,0 144 0 
+DESIGN gun
+VIEW symbol.sb
+GRAPHIC 134,0 145 0 
+DESIGN gun
+VIEW symbol.sb
+GRAPHIC 265,0 146 0 
+DESIGN gun
+VIEW symbol.sb
+GRAPHIC 144,0 147 0 
+DESIGN gun
+VIEW symbol.sb
+GRAPHIC 325,0 148 0 
+DESIGN gun
+VIEW symbol.sb
+GRAPHIC 295,0 149 0 
+DESIGN gun
+VIEW symbol.sb
+GRAPHIC 149,0 150 0 
+DESIGN gun
+VIEW symbol.sb
+GRAPHIC 154,0 151 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 289,0 154 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 702,0 156 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 126,0 157 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 131,0 158 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 161,0 159 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 1084,0 160 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 156,0 161 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 151,0 162 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 141,0 163 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 136,0 164 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 778,0 165 0 
+DESIGN write_sequencer
+VIEW symbol.sb
+GRAPHIC 146,0 166 0 
+LIBRARY alien_game_lib
+DESIGN game
+VIEW struct.bd
+NO_GRAPHIC 169
+DESIGN game
+VIEW struct.bd
+GRAPHIC 789,0 172 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1225,0 173 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 411,0 174 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 327,0 175 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 959,0 176 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 584,0 177 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 369,0 178 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 289,0 179 0 
+DESIGN game
+VIEW struct.bd
+NO_GRAPHIC 182
+DESIGN game
+VIEW struct.bd
+NO_GRAPHIC 184
+DESIGN game
+VIEW struct.bd
+GRAPHIC 789,0 186 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 749,0 188 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 737,0 189 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 743,0 190 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 731,0 191 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 757,0 192 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1225,0 194 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1189,0 196 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 757,0 197 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1195,0 198 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1203,0 199 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 411,0 201 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 421,0 203 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 452,0 204 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 500,0 205 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 470,0 206 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 842,0 207 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 602,0 208 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 608,0 209 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 596,0 210 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 327,0 212 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 458,0 214 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 494,0 215 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1203,0 216 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 476,0 217 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 644,0 218 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 638,0 219 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 632,0 220 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 959,0 222 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 913,0 224 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 919,0 225 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 971,0 226 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1001,0 227 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 989,0 228 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 995,0 229 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 584,0 231 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 644,0 233 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 638,0 234 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 632,0 235 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 596,0 236 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 602,0 237 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 608,0 238 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1001,0 239 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 989,0 240 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 995,0 241 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 626,0 242 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 826,0 243 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 620,0 244 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 650,0 245 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 43,0 246 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 113,0 247 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 127,0 248 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 369,0 250 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 15,0 252 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 464,0 253 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 490,0 254 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 508,0 255 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 482,0 256 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 842,0 257 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 626,0 258 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 826,0 259 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 620,0 260 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 289,0 262 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 925,0 264 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 29,0 265 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 71,0 266 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 99,0 267 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 1017,0 268 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 490,0 269 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 57,0 270 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 508,0 271 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 650,0 272 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 971,0 273 0 
+DESIGN game
+VIEW struct.bd
+GRAPHIC 85,0 274 0 
+DESIGN game
+VIEW struct.bd
+NO_GRAPHIC 277

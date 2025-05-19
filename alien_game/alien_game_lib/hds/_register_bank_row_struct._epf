@@ -1,0 +1,2 @@
+DEFAULT_FILE atom register_bank_row_struct/struct.bd
+DEFAULT_ARCHITECTURE atom struct

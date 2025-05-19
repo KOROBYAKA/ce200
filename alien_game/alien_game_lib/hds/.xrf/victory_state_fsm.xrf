@@ -1,0 +1,307 @@
+DESIGN victory_state
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN victory_state
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN victory_state
+VIEW symbol.sb
+GRAPHIC 118,0 14 0 
+DESIGN victory_state
+VIEW symbol.sb
+GRAPHIC 123,0 15 0 
+DESIGN victory_state
+VIEW symbol.sb
+GRAPHIC 138,0 16 0 
+DESIGN victory_state
+VIEW symbol.sb
+GRAPHIC 128,0 17 0 
+DESIGN victory_state
+VIEW symbol.sb
+GRAPHIC 133,0 18 0 
+DESIGN victory_state
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN victory_state
+VIEW symbol.sb
+GRAPHIC 1,0 22 0 
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 31,0 34 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 37
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 52 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 53
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 166,0 56 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 183,0 57 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 200,0 58 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 59
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 63 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 64
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 67 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 68
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 70,0 69 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 60,0 72 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 73
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 76 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 77
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 79 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 80
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 166,0 87 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 183,0 88 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 200,0 89 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 90 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 43,0 91 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 166,0 92 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 290,0 95 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 183,0 96 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 98
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 166,0 99 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 100
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 183,0 101 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 320,0 102 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 200,0 103 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 105
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 183,0 106 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 107
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 200,0 108 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 310,0 109 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 43,0 110 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 111
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 200,0 112 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 113
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 325,0 114 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 347,0 115 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 43,0 116 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 117
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 325,0 118 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 119
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 93,0 120 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 122
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 123 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 124
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 126 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 127
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 133 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 43,0 134 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 58,0 135 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 166,0 138 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 181,0 139 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 183,0 142 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 198,0 143 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 200,0 146 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 215,0 147 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 150
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 152 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 154
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 156 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 162
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+GRAPHIC 2,0 165 0
+LIBRARY alien_game_lib
+DESIGN victory_state
+VIEW fsm.sm
+NO_GRAPHIC 187

@@ -1,0 +1,84 @@
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 126,0 14 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 116,0 15 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 260,0 16 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 131,0 17 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 161,0 18 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 121,0 19 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 1,0 22 0 
+DESIGN register_bank_mem_cell
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+NO_GRAPHIC 26
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 105,0 35 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+NO_GRAPHIC 38
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 0,0 40 2 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 376,0 45 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 382,0 46 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 407,0 47 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 294,0 50 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+NO_GRAPHIC 55
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+NO_GRAPHIC 56
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 212,0 58 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 397,0 69 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 275,0 72 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 363,0 82 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+NO_GRAPHIC 92
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+GRAPHIC 294,0 96 0 
+DESIGN register_bank_mem_cell
+VIEW struct.bd
+NO_GRAPHIC 98

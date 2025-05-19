@@ -1,0 +1,221 @@
+DESIGN register_bank_fsm
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 158,0 15 0 
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 117,0 16 0 
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 169,0 17 0 
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 252,0 18 0 
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 164,0 19 0 
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 247,0 20 0 
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN register_bank_fsm
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 31,0 36 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 39
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 2,0 54 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 55
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 2,0 58 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 59
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 70,0 60 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 60,0 62 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 63
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 2,0 65 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 66
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 2,0 68 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 69
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 2,0 74 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 43,0 75 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 316,0 76 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 160,0 77 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 78
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 43,0 79 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 80
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 160,0 81 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 326,0 82 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 43,0 83 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 84
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 160,0 85 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 86
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 93,0 87 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 89
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 2,0 90 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 91
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 2,0 93 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 94
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 30,0 100 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 104
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 2,0 106 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 43,0 107 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 58,0 108 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 316,0 112 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 317,0 113 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 114
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 160,0 115 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 175,0 116 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 326,0 120 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 327,0 121 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 122
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+GRAPHIC 2,0 125 0
+LIBRARY alien_game_lib
+DESIGN register_bank_fsm
+VIEW fsm.sm
+NO_GRAPHIC 127

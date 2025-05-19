@@ -1,0 +1,66 @@
+DESIGN gun_left_shifter
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN gun_left_shifter
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN gun_left_shifter
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN gun_left_shifter
+VIEW symbol.sb
+GRAPHIC 117,0 15 0 
+DESIGN gun_left_shifter
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN gun_left_shifter
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN gun_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN gun_left_shifter
+VIEW struct.bd
+GRAPHIC 73,0 31 0 
+DESIGN gun_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN gun_left_shifter
+VIEW struct.bd
+GRAPHIC 0,0 36 2 
+DESIGN gun_left_shifter
+VIEW struct.bd
+GRAPHIC 330,0 41 0 
+DESIGN gun_left_shifter
+VIEW struct.bd
+GRAPHIC 324,0 42 0 
+DESIGN gun_left_shifter
+VIEW struct.bd
+GRAPHIC 367,0 43 0 
+DESIGN gun_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 44
+DESIGN gun_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN gun_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN gun_left_shifter
+VIEW struct.bd
+GRAPHIC 357,0 51 0 
+DESIGN gun_left_shifter
+VIEW struct.bd
+GRAPHIC 159,0 54 0 
+DESIGN gun_left_shifter
+VIEW struct.bd
+GRAPHIC 299,0 62 0 
+DESIGN gun_left_shifter
+VIEW struct.bd
+GRAPHIC 231,0 72 0 
+DESIGN gun_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 75
+DESIGN gun_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 78

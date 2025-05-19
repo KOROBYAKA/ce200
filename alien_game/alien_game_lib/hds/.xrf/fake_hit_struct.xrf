@@ -1,0 +1,89 @@
+DESIGN fake_hit
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN fake_hit
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN fake_hit
+VIEW symbol.sb
+GRAPHIC 120,0 14 0 
+DESIGN fake_hit
+VIEW symbol.sb
+GRAPHIC 140,0 15 0 
+DESIGN fake_hit
+VIEW symbol.sb
+GRAPHIC 130,0 16 0 
+DESIGN fake_hit
+VIEW symbol.sb
+GRAPHIC 145,0 17 0 
+DESIGN fake_hit
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN fake_hit
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN fake_hit
+VIEW struct.bd
+NO_GRAPHIC 24
+DESIGN fake_hit
+VIEW struct.bd
+GRAPHIC 137,0 33 0 
+DESIGN fake_hit
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN fake_hit
+VIEW struct.bd
+GRAPHIC 0,0 39 2 
+DESIGN fake_hit
+VIEW struct.bd
+GRAPHIC 311,0 44 0 
+DESIGN fake_hit
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN fake_hit
+VIEW struct.bd
+NO_GRAPHIC 46
+LIBRARY alien_game_lib
+DESIGN vector_compare
+VIEW struct
+GRAPHIC 227,0 48 0 
+DESIGN vector_compare
+VIEW symbol.sb
+GRAPHIC 239,0 50 0 
+DESIGN vector_compare
+VIEW symbol.sb
+GRAPHIC 244,0 51 0 
+DESIGN vector_compare
+VIEW symbol.sb
+GRAPHIC 138,0 52 0 
+LIBRARY alien_game_lib
+DESIGN fake_hit
+VIEW struct.bd
+NO_GRAPHIC 55
+DESIGN fake_hit
+VIEW struct.bd
+GRAPHIC 227,0 58 0 
+DESIGN fake_hit
+VIEW struct.bd
+NO_GRAPHIC 61
+DESIGN fake_hit
+VIEW struct.bd
+GRAPHIC 277,0 63 0 
+DESIGN fake_hit
+VIEW struct.bd
+NO_GRAPHIC 66
+DESIGN fake_hit
+VIEW struct.bd
+GRAPHIC 227,0 68 0 
+DESIGN fake_hit
+VIEW struct.bd
+GRAPHIC 15,0 70 0 
+DESIGN fake_hit
+VIEW struct.bd
+GRAPHIC 57,0 71 0 
+DESIGN fake_hit
+VIEW struct.bd
+GRAPHIC 313,0 72 0 
+DESIGN fake_hit
+VIEW struct.bd
+NO_GRAPHIC 75

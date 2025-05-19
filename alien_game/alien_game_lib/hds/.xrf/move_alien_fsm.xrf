@@ -1,0 +1,409 @@
+DESIGN move_alien
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN move_alien
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN move_alien
+VIEW symbol.sb
+GRAPHIC 114,0 14 0 
+DESIGN move_alien
+VIEW symbol.sb
+GRAPHIC 119,0 15 0 
+DESIGN move_alien
+VIEW symbol.sb
+GRAPHIC 154,0 16 0 
+DESIGN move_alien
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN move_alien
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 31,0 32 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 35
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 53 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 54
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 369,0 57 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 386,0 58 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 403,0 59 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 420,0 60 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 437,0 61 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 504,0 62 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 722,0 63 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 64
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 68 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 69
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 72 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 73
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 70,0 74 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 60,0 77 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 78
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 81 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 82
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 84 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 85
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 369,0 91 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 386,0 92 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 403,0 93 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 420,0 94 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 437,0 95 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 504,0 96 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 722,0 97 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 98 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 43,0 99 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 369,0 100 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 469,0 103 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 386,0 104 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 106
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 369,0 107 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 108
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 386,0 109 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 479,0 110 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 403,0 111 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 113
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 386,0 114 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 115
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 403,0 116 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 489,0 117 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 420,0 118 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 120
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 403,0 121 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 122
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 420,0 123 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 499,0 124 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 722,0 125 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 127
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 420,0 128 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 129
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 437,0 130 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 526,0 131 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 504,0 132 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 134
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 437,0 135 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 136
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 504,0 137 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 722,0 139 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 744,0 140 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 437,0 141 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 143
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 722,0 144 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 145
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 93,0 146 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 148
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 149 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 150
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 152 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 153
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 159 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 369,0 160 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 384,0 161 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 386,0 162 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 401,0 163 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 403,0 164 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 418,0 165 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 420,0 166 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 435,0 167 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 437,0 168 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 452,0 169 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 504,0 170 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 519,0 171 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 722,0 172 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 737,0 173 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 174
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 176 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 178
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 180 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 190
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+GRAPHIC 2,0 193 0
+LIBRARY alien_game_lib
+DESIGN move_alien
+VIEW fsm.sm
+NO_GRAPHIC 223

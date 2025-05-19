@@ -1,0 +1,320 @@
+DESIGN lose_effect
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN lose_effect
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN lose_effect
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN lose_effect
+VIEW symbol.sb
+GRAPHIC 117,0 15 0 
+DESIGN lose_effect
+VIEW symbol.sb
+GRAPHIC 149,0 16 0 
+DESIGN lose_effect
+VIEW symbol.sb
+GRAPHIC 154,0 17 0 
+DESIGN lose_effect
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN lose_effect
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 31,0 33 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 36
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 51 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 52
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 43,0 55 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 160,0 56 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 177,0 57 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 194,0 58 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 59
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 63 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 64
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 67 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 68
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 70,0 69 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 60,0 72 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 73
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 76 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 77
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 79 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 80
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 43,0 86 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 160,0 87 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 177,0 88 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 194,0 89 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 90 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 43,0 91 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 504,0 92 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 160,0 93 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 95
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 43,0 96 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 97
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 160,0 98 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 484,0 99 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 177,0 100 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 102
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 160,0 103 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 104
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 177,0 105 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 494,0 106 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 194,0 107 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 109
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 177,0 110 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 111
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 194,0 112 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 514,0 113 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 43,0 114 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 116
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 194,0 117 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 118
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 298,0 119 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 43,0 120 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 93,0 122 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 43,0 124 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 125
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 126 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 127
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 129 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 130
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 136 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 43,0 137 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 58,0 138 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 160,0 140 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 175,0 141 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 177,0 143 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 192,0 144 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 194,0 146 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 209,0 147 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 149
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 151 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 153
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 155 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 162
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+GRAPHIC 2,0 165 0
+LIBRARY alien_game_lib
+DESIGN lose_effect
+VIEW fsm.sm
+NO_GRAPHIC 189
